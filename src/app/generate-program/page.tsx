@@ -209,7 +209,9 @@ const GenerateProgramPage = () => {
                 </div>
               </div>
 
-              <h2 className="text-xl font-bold text-foreground">CodeFlex AI</h2>
+              <h2 className="text-xl font-bold text-foreground">
+                Fitness Trainer AI
+              </h2>
               <p className="text-sm text-muted-foreground mt-1">
                 Fitness & Diet Coach
               </p>
